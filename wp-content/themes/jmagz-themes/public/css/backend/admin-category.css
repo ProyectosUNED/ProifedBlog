@@ -1,0 +1,41 @@
+.form-field.category-layout label {
+    float: left;
+    width: 32%;
+    margin-right: 2%;
+    max-width: 400px;
+    min-width: 150px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.form-field.category-layout label:last-child {margin-right: 0;}
+
+.form-field.category-layout th label {
+    margin: 0 0  10px;
+}
+
+.form-field.category-layout input {
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.form-field.category-layout img {
+    width: auto;
+    max-width: 100%;
+}
+
+.form-field span {
+    color: #666;
+    display: block;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.6em;
+    padding-top: 10px;
+}
+
+.form-field.category-layout-creator > td {
+    vertical-align: top;
+}

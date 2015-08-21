@@ -1,0 +1,134 @@
+body,html,button,
+input,select,textarea {
+    font-family : "Roboto Slab";
+}
+.article-content.intro-text > p:first-child, .article-content p.intro-text, .article-content.dropcap > p:first-child:first-letter,
+.article-content p.dropcap:first-letter, .article-content blockquote, .aside-post .post-title, .slide-caption, .review-shortdesc {
+    font-family : "Open Sans";
+}
+
+#navbar {
+    background-color : #00b5f7;
+}
+.featured-post .caption .post-categories a { background-color : rgba(0,181,247, 0.75); }
+header ul.menu > li > a:hover, header ul.menu > li.sfHover > a, .mobile-toggle {
+    background-color : #1bbcf7    }
+#top {
+    height: 100px;
+}
+
+a, .section-heading strong, .archive-heading strong, .article-content.dropcap > p:first-child:first-letter,
+.article-content p.dropcap:first-letter, .dropcaps, .popup-heading,
+.commentlist .bypostauthor > .comment-body > .comment-author > .fn,
+.price-info strong, .productinfo a.aff-link, .article-content .subheading,
+.topcart .empty-cart a {
+    color: #333333;
+}
+::-moz-selection {
+    background: #333333;
+}
+::selection {
+    background: #333333;
+}
+.featured-slider-thumbnail .owl-item.active img {
+    border-color: #333333;
+}
+#postloader {
+    border-top-color : #333333;
+}
+
+.breakingnews { background: #e7e7e7 }
+.owl-breakingnews .owl-wrapper-outer:after {
+    background: -moz-linear-gradient(left,  rgba(231,231,231,0) 0%, rgba(231,231,231,1) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(231,231,231,0)), color-stop(100%,rgba(231,231,231,1)));
+    background: -webkit-linear-gradient(left,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+    background: -o-linear-gradient(left,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+    background: -ms-linear-gradient(left,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+    background: linear-gradient(to right,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+}
+.breakingnews-marquee ul:before {
+    background: -moz-linear-gradient(left,  rgba(231,231,231,1) 0%, rgba(231,231,231,0) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(231,231,231,1)), color-stop(100%,rgba(231,231,231,0)));
+    background: -webkit-linear-gradient(left,  rgba(231,231,231,1) 0%,rgba(231,231,231,0) 100%);
+    background: -o-linear-gradient(left,  rgba(231,231,231,1) 0%,rgba(231,231,231,0) 100%);
+    background: -ms-linear-gradient(left,  rgba(231,231,231,1) 0%,rgba(231,231,231,0) 100%);
+    background: linear-gradient(to right,  rgba(231,231,231,1) 0%,rgba(231,231,231,0) 100%);
+}
+
+.breakingnews-marquee ul:after {
+    background: -moz-linear-gradient(left,  rgba(231,231,231,0) 0%, rgba(231,231,231,1) 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(231,231,231,0)), color-stop(100%,rgba(231,231,231,1)));
+    background: -webkit-linear-gradient(left,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+    background: -o-linear-gradient(left,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+    background: -ms-linear-gradient(left,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+    background: linear-gradient(to right,  rgba(231,231,231,0) 0%,rgba(231,231,231,1) 100%);
+}
+.breakingnews-item a, .breakingnews-item .post-title a, .owl-breakingnews .owl-buttons div, .breakingnews-marquee a, .breakingnews-marquee a:hover { color: #333333 }
+.breakingnews-item .post-date, .breakingnews-marquee .post-date { color: #9b9b9b }
+.breakingnews-item .post-category a, .breakingnews-marquee .post-category a { color: #9b9b9b }
+.owl-breakingnews .owl-item, .owl-breakingnews .owl-buttons { border-color: #e7e7e7; }
+.breakingnews-heading { color: #333333; }
+
+/* Side Feed  */
+.sidebar-posts .post-meta .post-category a { color: #ababab; }
+.sidebar-posts .post-meta .post-date { color: #ababab; }
+
+/* Side Feed Active */
+.active.sidebar-post-item { background-color: #edf4f7; border-color: #b4e5f7 }
+.sidebar-posts .active .post-rating-star { color: #efca56 }
+.sidebar-posts .active .post-meta .post-category a { color: #7b7b7b; }
+.sidebar-posts .active .post-meta .post-date { color: #7b7b7b; }
+
+.jpreloader span {
+    background : #ebfaff;
+}
+@-webkit-keyframes jpreloader {
+    0% {height:6px;transform:translateY(0px);background:#ebfaff;}
+    25% {height:12px;transform:translateY(3px);background:#00b5f7;}
+    50% {height:6px;transform:translateY(0px);background:#4cc9f7;}
+    100% {height:6px;transform:translateY(0px);background:#b2e3f7;}
+}
+@-moz-keyframes jpreloader {
+    0% {height:6px;transform:translateY(0px);background:#ebfaff;}
+    25% {height:12px;transform:translateY(3px);background:#00b5f7;}
+    50% {height:6px;transform:translateY(0px);background:#4cc9f7;}
+    100% {height:6px;transform:translateY(0px);background:#b2e3f7;}
+}
+@-o-keyframes jpreloader {
+    0% {height:6px;transform:translateY(0px);background:#ebfaff;}
+    25% {height:12px;transform:translateY(3px);background:#00b5f7;}
+    50% {height:6px;transform:translateY(0px);background:#4cc9f7;}
+    100% {height:6px;transform:translateY(0px);background:#b2e3f7;}
+}
+@keyframes jpreloader {
+    0% {height:6px;transform:translateY(0px);background:#ebfaff;}
+    25% {height:12px;transform:translateY(3px);background:#00b5f7;}
+    50% {height:6px;transform:translateY(0px);background:#4cc9f7;}
+    100% {height:6px;transform:translateY(0px);background:#b2e3f7;}
+}
+
+#footer-content { background: #333333 }
+#footer-content, #footer-content a { color: #9b9b9b }
+#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 { color: #ffffff; }
+.footer-bottom a {
+    color: #7b7b7b;
+    text-shadow: none;
+}
+.footer-bottom { color: #9b9b9b; }
+
+#main {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+@media only screen and (min-width : 320px) and (max-width : 1024px) {
+    .mobile-toggle, #navbar, .header-style-1 .logo, .top-search [name='s'] {
+        height: 60px;
+        line-height: 60px;
+    }
+}

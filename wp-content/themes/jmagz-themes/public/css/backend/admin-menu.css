@@ -1,0 +1,60 @@
+.mega-menu-category-checkbox,
+.mega-menu-category-select,
+.mega-menu-review-checkbox,
+.mega-menu-review-select {
+    display: none;
+}
+
+.menu-item-depth-0.menu-item-category .mega-menu-category-checkbox,
+.menu-item-depth-0.menu-item-category .mega-menu-category-select,
+.menu-item-depth-0.menu-item-review-category .mega-menu-review-checkbox,
+.menu-item-depth-0.menu-item-review-category .mega-menu-review-select,
+
+.menu-item-depth-0.menu-item-custom .mega-menu-category-checkbox,
+.menu-item-depth-0.menu-item-custom .mega-menu-category-select,
+.menu-item-depth-0.menu-item-custom .mega-menu-review-checkbox,
+.menu-item-depth-0.menu-item-custom .mega-menu-review-select,
+
+.menu-item-depth-0.menu-item-page .mega-menu-category-checkbox,
+.menu-item-depth-0.menu-item-page .mega-menu-category-select,
+.menu-item-depth-0.menu-item-page .mega-menu-review-checkbox,
+.menu-item-depth-0.menu-item-page .mega-menu-review-select{
+    display: block;
+}
+
+.mega-category-child-menu {
+    margin-bottom: 0 !important;
+    padding-bottom: 4px;
+    margin-top: 10px !important;
+}
+
+.mega-category-child-menu label {
+    border: 1px solid #ddd;
+    background: #FDFDFD;
+    padding: 7px 15px;
+    border-bottom: none;
+}
+
+.wp-tab-panel.category-child-menu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 12px;
+    max-height: 90px;
+}
+
+.field-custom.mega-review-menu {
+    margin-top: 15px;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+.clearfix:after {
+    clear: both;
+}
+/* For IE 6/7 only */
+.clearfix {
+    *zoom: 1;
+}

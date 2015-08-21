@@ -1,0 +1,2174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jmagz v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-10 09:35+0800\n"
+"PO-Revision-Date: 2015-06-03 23:49-0600\n"
+"Last-Translator: Charlie <carlosbvz@gmail.com>\n"
+"Language-Team: Jegtheme <support@jegtheme.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ jeg_textdomain
+#: ../404.php:6
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "Lo sentimos, la página que deseas ver no existe."
+
+#: ../404.php:8
+msgid "Try using our navigation or simply search it:"
+msgstr "Intenta usar el panel de navegación:"
+
+# @ jeg_textdomain
+#: ../404.php:11 ../searchform.php:2
+msgid "Type and Enter to Search"
+msgstr "Buscar..."
+
+#: ../admin/category-option.php:54
+msgid "Choose Your Category Layout"
+msgstr "Elija su diseño de categorias"
+
+#: ../admin/category-option.php:82
+msgid "Category Layout"
+msgstr "Diseño de Categorias"
+
+#. translators: %s: title of menu item which is invalid
+#: ../admin/mega-menu.php:149
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Inválido)"
+
+#. translators: %s: title of menu item in draft status
+#: ../admin/mega-menu.php:153
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+#: ../admin/mega-menu.php:198
+msgid "Edit Menu Item"
+msgstr "Editar Elemento del menú"
+
+#: ../admin/mega-menu.php:207
+msgid "URL"
+msgstr "URL"
+
+#: ../admin/mega-menu.php:214
+msgid "Navigation Label"
+msgstr "Etiqueta de navegación"
+
+#: ../admin/mega-menu.php:220
+msgid "Title Attribute"
+msgstr "Atributo del título"
+
+#: ../admin/mega-menu.php:227
+msgid "Open link in a new window/tab"
+msgstr "Abrir link en nueva ventana"
+
+#: ../admin/mega-menu.php:232
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: ../admin/mega-menu.php:238
+msgid "Link Relationship (XFN)"
+msgstr "Relación de Link (XFN)"
+
+#: ../admin/mega-menu.php:244
+msgid "Description"
+msgstr "Descripción"
+
+#: ../admin/mega-menu.php:246
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"La descripción se desplegará en el menú si es soportado por el tema actual"
+
+# @ jeg_textdomain
+#: ../admin/mega-menu.php:260
+msgid "Enable Mega Category"
+msgstr "Activar Mega Categoria"
+
+#: ../admin/mega-menu.php:266
+msgid "Choose category child"
+msgstr "Elige categoría hijo"
+
+#: ../admin/mega-menu.php:289
+msgid "Enable Mega Review"
+msgstr "Activar Mega Review"
+
+#: ../admin/mega-menu.php:295
+msgid "Choose review child"
+msgstr "Elegir revisar child"
+
+#: ../admin/mega-menu.php:328
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+# @ jeg_textdomain
+#: ../admin/mega-menu.php:341
+msgid "Remove"
+msgstr "Remover"
+
+# @ jeg_textdomain
+#: ../admin/mega-menu.php:342
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../admin/widget-template/twitter-widget.php:207
+msgid "Sorry, no tweet found."
+msgstr "Lo sentimos, tweet no encontrado"
+
+#: ../author.php:12 ../fragment/post-related.php:24
+msgid "Posts"
+msgstr "Entradas"
+
+# @ jeg_textdomain
+#: ../author.php:15 ../woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr "Opiniones"
+
+# @ jeg_textdomain
+#: ../comments.php:15
+#, php-format
+msgid "Please <a href='%s'>login</a> to join discussion"
+msgstr "Por favor <a href='%s'>Ingresar</a> para unirse a la conversación"
+
+#: ../comments.php:21
+#, php-format
+msgid "Discussion about this %1$s"
+msgid_plural "%2$s Discussion to this %1$s"
+msgstr[0] "Discusión acerca de %1$s"
+msgstr[1] "%2$s discusiones acerca de %1$s"
+
+#: ../comments.php:49 ../comments.php:75 ../comments.php:82
+#, php-format
+msgid "Discussion about this %s"
+msgstr "Discusión acerca de %s"
+
+# @ jeg_textdomain
+#: ../comments.php:59 ../woocommerce/single-product-reviews.php:63
+msgid "Name"
+msgstr "Nombre"
+
+# @ jeg_textdomain
+#: ../comments.php:61 ../woocommerce/single-product-reviews.php:66
+msgid "Email"
+msgstr "Email"
+
+# @ jeg_textdomain
+#: ../comments.php:63
+msgid "Website"
+msgstr "Website"
+
+# @ jeg_textdomain
+#: ../comments.php:65
+#, fuzzy
+msgctxt "noun"
+msgid "Comment"
+msgstr "Comment"
+
+#: ../fragment/author-review.php:24 ../fragment/layout-review-1.php:20
+#: ../fragment/layout-review-2.php:116 ../fragment/layout-review-2.php:141
+msgid "Featured "
+msgstr "Destacado"
+
+# @ jeg_textdomain
+#: ../fragment/author-review.php:24 ../fragment/author-review.php:37
+#: ../fragment/layout-review-1.php:20 ../fragment/layout-review-1.php:34
+#: ../fragment/layout-review-2.php:116 ../fragment/layout-review-2.php:141
+msgid "Review"
+msgstr "Opinión"
+
+#: ../fragment/author-review.php:37 ../fragment/layout-review-1.php:34
+#: ../index.php:6 ../template-index.php:14 ../template-index.php:16
+msgid "Latest "
+msgstr "Último"
+
+# @ jeg_textdomain
+#: ../fragment/breaking-featureimage.php:43
+#: ../fragment/breaking-textonly.php:39 ../fragment/post-header.php:16
+#: ../fragment/post-related.php:47 ../fragment/review-header.php:14
+#: ../lib/additional-filter.php:74 ../lib/ajax-response.php:165
+#: ../lib/ajax-response.php:259 ../lib/ajax-response.php:358
+#: ../lib/ajax-response.php:385
+msgid " ago"
+msgstr " atrás"
+
+#: ../fragment/breaking-textonly.php:3
+msgid "BREAKING"
+msgstr "NOTICIAS"
+
+#: ../fragment/category-1.php:11 ../fragment/category-1.php:26
+#: ../fragment/category-2.php:125 ../fragment/category-2.php:150
+#: ../fragment/category-3.php:102 ../fragment/category-feed-1.php:11
+#: ../fragment/category-feed-2.php:25
+msgid "Latest on"
+msgstr "Último en"
+
+#: ../fragment/category-2.php:44 ../fragment/category-2.php:60
+#: ../fragment/category-2.php:77 ../fragment/category-2.php:98
+#: ../fragment/category-3.php:43 ../fragment/category-3.php:59
+#: ../fragment/category-3.php:71 ../fragment/category-feed-2.php:52
+#: ../fragment/post-related.php:43 ../lib/common-function.php:475
+#: ../lib/common-function.php:524
+msgid "By"
+msgstr "Por"
+
+# @ jeg_textdomain
+#: ../fragment/post-author-box.php:6
+msgid "Author"
+msgstr "Autor"
+
+#: ../fragment/post-content.php:19
+msgid "Topics:"
+msgstr "Temas:"
+
+# @ jeg_textdomain
+#: ../fragment/post-header.php:21 ../fragment/review-header.php:16
+msgid "No Comment Yet"
+msgstr "Aún no hay comentarios"
+
+# @ jeg_textdomain
+#: ../fragment/post-header.php:21 ../fragment/review-header.php:16
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+# @ jeg_textdomain
+#: ../fragment/post-header.php:21 ../fragment/review-header.php:16
+msgid "% Comments"
+msgstr "% Comentarios"
+
+# @ jeg_textdomain
+#: ../fragment/post-header.php:25
+msgid "Comment"
+msgstr "Comentario"
+
+# @ jeg_textdomain
+#: ../fragment/post-popup.php:12
+msgid "Up Next"
+msgstr "Siguiente"
+
+# @ jeg_textdomain
+#: ../fragment/post-prevnext.php:8 ../fragment/review-prev-next.php:10
+msgid "Prev Post"
+msgstr "Entrada Previa"
+
+# @ jeg_textdomain
+#: ../fragment/post-prevnext.php:19 ../fragment/review-prev-next.php:22
+msgid "Next post"
+msgstr "Entrada Siguiente"
+
+#: ../fragment/post-related.php:24
+msgid "Related"
+msgstr "Relacionado"
+
+#: ../fragment/post-social-share.php:13
+msgid "Check this awesome article : "
+msgstr "Visita este interesante artículo : "
+
+# @ jeg_textdomain
+#: ../fragment/review-box.php:6
+msgid "The Review"
+msgstr "Opinión"
+
+#: ../fragment/review-box.php:19
+msgid "Score"
+msgstr "Puntuación"
+
+#: ../fragment/review-box.php:40 ../fragment/review-content.php:16
+msgid "Buy"
+msgstr "Comprar"
+
+#: ../fragment/review-box.php:49 ../fragment/review-content.php:28
+msgid "Lowest Price at:"
+msgstr "Preciomás bajo en:"
+
+#: ../fragment/review-box.php:53 ../fragment/review-content.php:32
+msgid "Where to buy:"
+msgstr "Donde comprar:"
+
+# @ jeg_textdomain
+#: ../fragment/review-box.php:65
+msgid "The Good"
+msgstr "Lo bueno"
+
+#: ../fragment/review-box.php:76
+msgid "The Bad"
+msgstr "Lo malo"
+
+#: ../fragment/review-box.php:89
+msgid "Breakdown"
+msgstr "Desglose"
+
+#: ../fragment/review-search-header.php:8
+msgid "Search review..."
+msgstr "Búsqueda de opinión..."
+
+#: ../fragment/review-search-header.php:17
+msgid "Advanced Filter"
+msgstr "Filtro avanzado"
+
+# @ jeg_textdomain
+#: ../fragment/review-search-header.php:23
+msgid "All Category"
+msgstr "Todas las categorías"
+
+#: ../fragment/review-search-header.php:38
+msgid "All Brand"
+msgstr "Todas las marcas"
+
+# @ jeg_textdomain
+#: ../fragment/review-search-header.php:50
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: ../fragment/review-search-header.php:51
+msgid "Newest First"
+msgstr "El más reciente"
+
+#: ../fragment/review-search-header.php:52
+msgid "Oldest First"
+msgstr "El más antiguo"
+
+#: ../fragment/review-search-header.php:53
+msgid "Highest Price"
+msgstr "Precio más alto"
+
+#: ../fragment/review-search-header.php:54
+msgid "Lowest Price"
+msgstr "Precio más bajo"
+
+#: ../fragment/review-search-header.php:55
+msgid "Highest Rating"
+msgstr "La calificación más alta"
+
+# @ jeg_textdomain
+#: ../fragment/review-search-header.php:56
+msgid "Lowest Rating"
+msgstr "La calificación más baja"
+
+#: ../fragment/review-search-result.php:71
+msgid "Search "
+msgstr "Buscar"
+
+#: ../fragment/review-search-result.php:71
+msgid "Result"
+msgstr "Resultado"
+
+#: ../fragment/review-search-result.php:114 ../lib/common-function.php:382
+#: ../lib/common-function.php:441
+msgid "Priced At:"
+msgstr "Con un precio de:"
+
+#: ../fragment/review-search-result.php:118 ../lib/common-function.php:386
+#: ../lib/common-function.php:445
+msgid "Available At:"
+msgstr "Disponible en:"
+
+#: ../fragment/review-search-result.php:135 ../fragment/right-nav.php:50
+#: ../search.php:40 ../taxonomy-review-category.php:52
+msgid "No Result"
+msgstr "No hay resultados"
+
+# @ jeg_textdomain
+#: ../fragment/right-nav.php:16
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+# @ jeg_textdomain
+#: ../fragment/right-nav.php:17
+msgid "Edit Account"
+msgstr "Editar Cuenta"
+
+# @ jeg_textdomain
+#: ../fragment/right-nav.php:18
+msgid "Edit Address"
+msgstr "Editar Dirección"
+
+#: ../fragment/right-nav.php:19
+msgid "Sign Out"
+msgstr "Salir"
+
+#: ../fragment/right-nav.php:53
+msgid "View All Result"
+msgstr "Ver todos los resultados"
+
+# @ jeg_textdomain
+#: ../fragment/sidebar-review.php:4
+msgid "Latest Review"
+msgstr "Última revisión"
+
+#: ../fragment/sidebar-review.php:8 ../fragment/sidebar.php:8
+msgid "End of Content"
+msgstr "Fin del contenido"
+
+# @ jeg_textdomain
+#: ../fragment/sidebar-review.php:8 ../fragment/sidebar.php:8
+msgid "Loading..."
+msgstr "Cargando..."
+
+# @ jeg_textdomain
+#: ../fragment/sidebar-review.php:8 ../fragment/sidebar-review.php:10
+msgid "Load More Review"
+msgstr "Ver más opiniones"
+
+#: ../fragment/sidebar.php:8 ../fragment/sidebar.php:10
+msgid "Load More"
+msgstr "Ver más"
+
+# @ jeg_textdomain
+#: ../fragment/top-cart.php:6
+msgid "Shopping Cart"
+msgstr "Shopping Cart"
+
+#: ../fragment/top-cart.php:17
+msgid "Qty: "
+msgstr "Cantidad: "
+
+# @ jeg_textdomain
+#: ../fragment/top-cart.php:24
+msgid "Cart Subtotal :"
+msgstr "Subtotal :"
+
+# @ jeg_textdomain
+#: ../fragment/top-cart.php:26
+msgid "View Cart"
+msgstr "Ver Carrito"
+
+# @ jeg_textdomain
+#: ../fragment/top-cart.php:27
+msgid "Checkout"
+msgstr "Revisar"
+
+# @ jeg_textdomain
+#: ../fragment/top-cart.php:30
+msgid "No products in cart."
+msgstr "No hay productos en el carrito."
+
+# @ jeg_textdomain
+#: ../fragment/top-cart.php:31
+msgid "Shop Now"
+msgstr "Comprar ahora"
+
+# @ jeg_textdomain
+#: ../index.php:7 ../template-index.php:14 ../template-index.php:16
+msgid "Content"
+msgstr "Contenido"
+
+#: ../lib/additional-filter.php:66
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+
+# @ jeg_textdomain
+#: ../lib/additional-filter.php:69
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está siendo revisado."
+
+#: ../lib/additional-filter.php:75
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../lib/common-function.php:741 ../lib/common-function.php:756
+#: ../lib/common-function.php:783
+msgid "Home"
+msgstr "Principal"
+
+# @ jeg_textdomain
+#: ../lib/init-menu.php:180
+msgid "Recent Review"
+msgstr "Opiniones recientes"
+
+# @ jeg_textdomain
+#: ../lib/init-menu.php:263
+msgid "Recent News"
+msgstr "Noticias Recientes"
+
+#: ../lib/load-script.php:18
+msgid "Copied URL to clipboard"
+msgstr "URL copiado en el portapapeles"
+
+# @ jeg_textdomain
+#: ../lib/load-script.php:19
+msgid "Share Article to"
+msgstr "Compartir Artículo con"
+
+# @ jeg_textdomain
+#: ../search.php:11
+msgid "Search for "
+msgstr "Buscar por"
+
+# @ jeg_textdomain
+#: ../taxonomy-review-category.php:21
+msgid "Latest Review of "
+msgstr "Última opinión de"
+
+# @ jeg_textdomain
+#: ../taxonomy-review-category.php:22
+msgid " Product"
+msgstr "Producto"
+
+#: ../taxonomy-review-category.php:24
+msgid "Latest  "
+msgstr "Más Reciente"
+
+# @ jeg_textdomain
+#: ../taxonomy-review-category.php:25
+msgid " Review"
+msgstr "Opinión"
+
+#: ../tgm/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Instalar los Plugins requeridos"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "Instalar Plugin"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: ../tgm/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:200 ../tgm/plugin-list.php:120
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:201 ../tgm/plugin-list.php:121
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:202 ../tgm/plugin-list.php:122
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos para instalar el plugin %s. "
+"Contacte al administrador del sitio para poder instalar dicho plugin."
+msgstr[1] ""
+"Lo sentimos, pero usted no tiene los permisos para instalar los plugins %s. "
+"Contacte al administrador del sitio para poder instalar dichos plugins."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:203 ../tgm/plugin-list.php:123
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin es requerido y está inactivo: %1$s."
+msgstr[1] "Los siguientes plugins son requeridos y están inactivos: %1$s."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:204 ../tgm/plugin-list.php:124
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin es recomendado y se encuentra inactivo: %1$s."
+msgstr[1] ""
+"Los siguientes plugins son recomendados y se encuentran inactivos: %1$s."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:205 ../tgm/plugin-list.php:125
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Los sentimos, pero usted no tiene los permisos para activar el plugin %s. "
+"Contacte al administrador del sitio para poder activarlo."
+msgstr[1] ""
+"Lo sentimos, pero usted no tiene los permisos para poder instalar los "
+"plugins %s. Contacte al administrador del sitio para poder instalarlos."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:206 ../tgm/plugin-list.php:126
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente plugin necesita ser actualizado a su última versión para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes plugins necesitan ser actualizados a su última versión para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:207 ../tgm/plugin-list.php:127
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para actualizar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin actualizado."
+msgstr[1] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para actualizar "
+"plugins el %s. Póngase en contacto con el administrador de este sitio en "
+"busca de ayuda en conseguir los plugins actualizados."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:208 ../tgm/plugin-list.php:128
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comienza la instalación del plugin"
+msgstr[1] "Comienza la instalación de los plugins"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Comienzo de activación de plugins"
+
+#: ../tgm/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "Regreso al instalador de los plugins requeridos"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Regreso al dashboard"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:212
+#: ../tgm/class-tgm-plugin-activation.php:1960
+msgid "Plugin activated successfully."
+msgstr "Plugin activado con éxito."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:213
+#: ../tgm/class-tgm-plugin-activation.php:1647
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin ha sido activado con éxito:"
+msgstr[1] "Los siguientes plugins han sido activados con éxito:"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados correctamente. %1$s"
+
+#: ../tgm/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:554
+#: ../tgm/class-tgm-plugin-activation.php:2177
+msgid "Return to the Dashboard"
+msgstr "Regresar al Dashboard"
+
+#: ../tgm/class-tgm-plugin-activation.php:1184
+msgid "Private Repository"
+msgstr "Repositorio Privado"
+
+#: ../tgm/class-tgm-plugin-activation.php:1187
+msgid "Pre-Packaged"
+msgstr "Pre-Empaquetados"
+
+#: ../tgm/class-tgm-plugin-activation.php:1192
+msgid "WordPress Repository"
+msgstr "Repositorio WordPress "
+
+#: ../tgm/class-tgm-plugin-activation.php:1195
+msgid "Required"
+msgstr "Requerido"
+
+#: ../tgm/class-tgm-plugin-activation.php:1195
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../tgm/class-tgm-plugin-activation.php:1198
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: ../tgm/class-tgm-plugin-activation.php:1200
+msgid "Installed But Not Activated"
+msgstr "Instalado Pero No Activado"
+
+#: ../tgm/class-tgm-plugin-activation.php:1302
+#: ../tgm/class-tgm-plugin-activation.php:1410
+msgid "Install"
+msgstr "Instalar"
+
+#: ../tgm/class-tgm-plugin-activation.php:1324
+#: ../tgm/class-tgm-plugin-activation.php:1411
+msgid "Activate"
+msgstr "Activar"
+
+#: ../tgm/class-tgm-plugin-activation.php:1373
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No hay plugins para instalar o activar. <a href=\"%1$s\" title=\"Regreso al "
+"Dashboard\">Regreso al Dashboard</a>"
+
+#: ../tgm/class-tgm-plugin-activation.php:1389
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../tgm/class-tgm-plugin-activation.php:1390
+msgid "Source"
+msgstr "Fuente"
+
+#: ../tgm/class-tgm-plugin-activation.php:1391
+msgid "Type"
+msgstr "Tipo"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:1392
+msgid "Status"
+msgstr "Estado"
+
+#: ../tgm/class-tgm-plugin-activation.php:1520
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar en este momento."
+
+#: ../tgm/class-tgm-plugin-activation.php:1625
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: ../tgm/class-tgm-plugin-activation.php:1943
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponible."
+
+#: ../tgm/class-tgm-plugin-activation.php:1944
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando paquete de instalación de <span class=\"code\">%s</span>&#8230;"
+
+#: ../tgm/class-tgm-plugin-activation.php:1945
+msgid "Unpacking the package&#8230;"
+msgstr "Desempacando el paquete&#8230;"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:1946
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando el plugin&#8230;"
+
+#: ../tgm/class-tgm-plugin-activation.php:1947
+msgid "Plugin install failed."
+msgstr "Fallo en la instalación del plugin."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:1948
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado con éxito."
+
+#: ../tgm/class-tgm-plugin-activation.php:1959
+msgid "Plugin activation failed."
+msgstr "Fallo en la activación del plugin."
+
+#: ../tgm/class-tgm-plugin-activation.php:2073
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación ha iniciado. Este proceso podría "
+"durar algunos minutos, por favor se paciente."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s Instalado y activado con éxito."
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:2074
+#: ../tgm/class-tgm-plugin-activation.php:2083
+msgid "Show Details"
+msgstr "Mostar detalles"
+
+# @ jeg_textdomain
+#: ../tgm/class-tgm-plugin-activation.php:2074
+#: ../tgm/class-tgm-plugin-activation.php:2083
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: ../tgm/class-tgm-plugin-activation.php:2075
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#: ../tgm/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el Plugin %1$s (%2$d/%3$d)"
+
+#: ../tgm/class-tgm-plugin-activation.php:2080
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación ha iniciado. Este proceso podría tomar algunos "
+"minutos, por favor se paciente."
+
+#: ../tgm/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Un error ha ocurrido durante la instalación %1$s: <strong>%2$s</strong>."
+
+#: ../tgm/class-tgm-plugin-activation.php:2082
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#: ../tgm/class-tgm-plugin-activation.php:2083
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado con éxito."
+
+#: ../tgm/class-tgm-plugin-activation.php:2084
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#: ../tgm/class-tgm-plugin-activation.php:2085
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+# @ jeg_textdomain
+#: ../tgm/plugin-list.php:129
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activar plugin instalado"
+msgstr[1] "Activar plugins instalados"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:25 ../woocommerce/checkout/review-order.php:18
+#: ../woocommerce/order/order-details.php:19
+msgid "Product"
+msgstr "Producto"
+
+#: ../woocommerce/cart/cart.php:26
+msgid "Price"
+msgstr "Precio"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:27
+msgid "Quantity"
+msgstr "Cantidad"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:28 ../woocommerce/checkout/review-order.php:19
+#: ../woocommerce/order/order-details.php:20
+msgid "Total"
+msgstr "Total"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:45
+msgid "Remove this item"
+msgstr "Remover este item"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr "Disponible como backorder"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:117
+msgid "Coupon"
+msgstr "Cupón"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:117
+msgid "Coupon code"
+msgstr "Código del Cupón"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:117
+msgid "Apply Coupon"
+msgstr "Aplicar por un Cupón"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:124
+msgid "Update Cart"
+msgstr "Actualizar Carrito"
+
+# @ jeg_textdomain
+#: ../woocommerce/cart/cart.php:124
+msgid "Proceed to Checkout"
+msgstr "Proceder al Checkout"
+
+# @ jeg_textdomain
+#: ../woocommerce/checkout/review-order.php:51
+msgid "Cart Subtotal"
+msgstr "Subtotal del Carrito"
+
+# @ jeg_textdomain
+#: ../woocommerce/checkout/review-order.php:105
+msgid "Order Total"
+msgstr "Orden Total"
+
+# @ jeg_textdomain
+#: ../woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Por favor complete los espacios de arriba para ver los detalles del método "
+"de pago."
+
+# @ jeg_textdomain
+#: ../woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Lo sentimos, parece que no existen métodos de pago disponibles para su "
+"estado. Póngase en contacto con nosotros si necesita ayuda o desea hacer "
+"arreglos alternativos."
+
+# @ jeg_textdomain
+#: ../woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Debido a que su navegador no soporta JavaScript o está desactivado, "
+"asegúrese de dar clic en botón <em> Actualizar Totales </ em> antes de "
+"realizar su pedido. Se le puede cobrar más de la cantidad indicada arriba si "
+"no lo hace."
+
+# @ jeg_textdomain
+#: ../woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr "Actualizar totales."
+
+# @ jeg_textdomain
+#: ../woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr "Realizar pedido."
+
+#: ../woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"He leído y aceptado los <a href=\"%s\" target=\"_blank\">términos y "
+"condiciones</a>"
+
+#: ../woocommerce/global/breadcrumb.php:78
+msgid "Products tagged &ldquo;"
+msgstr "Productos etiquetados &ldquo;"
+
+#: ../woocommerce/global/breadcrumb.php:106
+#: ../woocommerce/global/breadcrumb.php:208
+msgid "Search results for &ldquo;"
+msgstr "Buscar resultado para &ldquo;"
+
+#: ../woocommerce/global/breadcrumb.php:162
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../woocommerce/global/breadcrumb.php:212
+msgid "Posts tagged &ldquo;"
+msgstr "Entrada etiquetada &ldquo;"
+
+# @ jeg_textdomain
+#: ../woocommerce/global/breadcrumb.php:217
+msgid "Author:"
+msgstr "Autor:"
+
+# @ jeg_textdomain
+#: ../woocommerce/global/breadcrumb.php:222
+msgid "Page"
+msgstr "Página"
+
+# @ jeg_textdomain
+#: ../woocommerce/myaccount/form-login.php:27
+#: ../woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+# @ jeg_textdomain
+#: ../woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr "Nombre de usuario y correo electrónico"
+
+# @ jeg_textdomain
+#: ../woocommerce/myaccount/form-login.php:38
+#: ../woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr "Recordarme"
+
+# @ jeg_textdomain
+#: ../woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr "¿Has olvidado tu contraseña?"
+
+# @ jeg_textdomain
+#: ../woocommerce/myaccount/form-login.php:65
+#: ../woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr "Registro"
+
+# @ jeg_textdomain
+#: ../woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr "Nombre de usuario"
+
+# @ jeg_textdomain
+#: ../woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr "Correo electrónico"
+
+#: ../woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:14
+msgid "Order Details"
+msgstr "Otros detalles"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:53
+#, php-format
+msgid "Download file%s"
+msgstr "Descargar archivos%s"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr "Detalles del cliente"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr "Teléfono:"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr "Dirección de cobro"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:122
+#: ../woocommerce/order/order-details.php:137
+msgid "N/A"
+msgstr "N/A"
+
+# @ jeg_textdomain
+#: ../woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s opinión de %s"
+msgstr[1] "%s opiniones de %s"
+
+#: ../woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr "Aún no hay opiniones"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr "Opinar"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr "Sé el primero en opinar"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Dejar una respuesta a %s"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:68
+msgid "Submit"
+msgstr "Enviar"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:74
+msgid "Your Rating"
+msgstr "Tu valoración"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Rate&hellip;"
+msgstr "Evaluar&hellip;"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Perfect"
+msgstr "Perfecto"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Good"
+msgstr "Bueno"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Average"
+msgstr "Promedio"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Not that bad"
+msgstr "No está mal"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Very Poor"
+msgstr "Muy pobre"
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product-reviews.php:84
+msgid "Your Review"
+msgstr "Tu valoración"
+
+#: ../woocommerce/single-product-reviews.php:93
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Únicamente los clientes que hayan adquirido este producto puede dejar un "
+"comentario."
+
+# @ jeg_textdomain
+#: ../woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr "Productos relacionados"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "There was an error when reading this WXR file"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Sorry, there has been an error."
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "The file does not exist, please try again."
+
+#~ msgid "All done."
+#~ msgstr "All done."
+
+# @ jeg_textdomain
+#~ msgid "Have fun!"
+#~ msgstr "Have fun!"
+
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "Remember to update the passwords and roles of imported users."
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+
+#~ msgid "Assign Authors"
+#~ msgstr "Assign Authors"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+
+#~ msgid "Import Attachments"
+#~ msgstr "Import Attachments"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "Download and import file attachments"
+
+#~ msgid "Import author:"
+#~ msgstr "Import author:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "or create new user with login name:"
+
+#~ msgid "as a new user:"
+#~ msgstr "as a new user:"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "assign posts to an existing user:"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "or assign posts to an existing user:"
+
+#~ msgid "- Select -"
+#~ msgstr "- Select -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+
+# @ jeg_textdomain
+#~ msgid "Failed to import category %s"
+#~ msgstr "Failed to import category %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "Failed to import post tag %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "Failed to import %s %s"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; already exists."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "Failed to import %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "Menu item skipped due to missing menu slug"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "Menu item skipped due to invalid menu slug: %s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "Fetching attachments is not enabled"
+
+#~ msgid "Invalid file type"
+#~ msgstr "Invalid file type"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "Remote server did not respond"
+
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "Remote server returned error response %1$d %2$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "Remote file is incorrect size"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Zero size file downloaded"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "Remote file is too large, limit is %s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "Import WordPress"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+
+#~ msgid ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+#~ msgstr ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+
+# @ jeg_textdomain
+#~ msgid "Continue reading &rarr;"
+#~ msgstr "Continue reading &rarr;"
+
+# @ jeg_textdomain
+#~ msgid "View More"
+#~ msgstr "View More"
+
+#~ msgid "Latest News"
+#~ msgstr "Latest News"
+
+#~ msgid "&larr; Prev"
+#~ msgstr "&larr; Prev"
+
+#~ msgid "Next &rarr;"
+#~ msgstr "Next &rarr;"
+
+# @ jeg_textdomain
+#~ msgid "Your cart is currently empty."
+#~ msgstr "Your cart is currently empty."
+
+# @ jeg_textdomain
+#~ msgid "Return To Shop"
+#~ msgstr "Return To Shop"
+
+# @ jeg_textdomain
+#~ msgid "Shipping #%d"
+#~ msgstr "Shipping #%d"
+
+#~ msgid "Shipping and Handling"
+#~ msgstr "Shipping and Handling"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "Please use the shipping calculator to see available shipping methods."
+#~ msgstr ""
+#~ "Please use the shipping calculator to see available shipping methods."
+
+#~ msgid ""
+#~ "Please continue to the checkout and enter your full address to see if "
+#~ "there are any available shipping methods."
+#~ msgstr ""
+#~ "Please continue to the checkout and enter your full address to see if "
+#~ "there are any available shipping methods."
+
+# @ jeg_textdomain
+#~ msgid "Please fill in your details to see available shipping methods."
+#~ msgstr "Please fill in your details to see available shipping methods."
+
+#~ msgid ""
+#~ "There doesn&lsquo;t seem to be any available shipping methods. Please "
+#~ "double check your address, or contact us if you need any help."
+#~ msgstr ""
+#~ "There doesn&lsquo;t seem to be any available shipping methods. Please "
+#~ "double check your address, or contact us if you need any help."
+
+# @ jeg_textdomain
+#~ msgid "Shipping"
+#~ msgstr "Shipping"
+
+# @ jeg_textdomain
+#~ msgid "Cart Totals"
+#~ msgstr "Cart Totals"
+
+# @ jeg_textdomain
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr " (taxes estimated for %s)"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+
+#~ msgid "You may be interested in&hellip;"
+#~ msgstr "You may be interested in&hellip;"
+
+# @ jeg_textdomain
+#~ msgid "No products in the cart."
+#~ msgstr "No products in the cart."
+
+# @ jeg_textdomain
+#~ msgid "Subtotal"
+#~ msgstr "Subtotal"
+
+# @ jeg_textdomain
+#~ msgid "Calculate Shipping"
+#~ msgstr "Calculate Shipping"
+
+# @ jeg_textdomain
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Select a country&hellip;"
+
+# @ jeg_textdomain
+#~ msgid "State / county"
+#~ msgstr "State / county"
+
+# @ jeg_textdomain
+#~ msgid "Select a state&hellip;"
+#~ msgstr "Select a state&hellip;"
+
+# @ jeg_textdomain
+#~ msgid "City"
+#~ msgstr "City"
+
+# @ jeg_textdomain
+#~ msgid "Postcode / Zip"
+#~ msgstr "Postcode / Zip"
+
+# @ jeg_textdomain
+#~ msgid "Update Totals"
+#~ msgstr "Update Totals"
+
+#~ msgid ""
+#~ "There are some issues with the items in your cart (shown above). Please "
+#~ "go back to the cart page and resolve these issues before checking out."
+#~ msgstr ""
+#~ "There are some issues with the items in your cart (shown above). Please "
+#~ "go back to the cart page and resolve these issues before checking out."
+
+#~ msgid "Return To Cart"
+#~ msgstr "Return To Cart"
+
+# @ jeg_textdomain
+#~ msgid "Billing &amp; Shipping"
+#~ msgstr "Billing &amp; Shipping"
+
+# @ jeg_textdomain
+#~ msgid "Billing Details"
+#~ msgstr "Billing Details"
+
+# @ jeg_textdomain
+#~ msgid "Create an account?"
+#~ msgstr "Create an account?"
+
+#~ msgid ""
+#~ "Create an account by entering the information below. If you are a "
+#~ "returning customer please login at the top of the page."
+#~ msgstr ""
+#~ "Create an account by entering the information below. If you are a "
+#~ "returning customer please login at the top of the page."
+
+# @ jeg_textdomain
+#~ msgid "You must be logged in to checkout."
+#~ msgstr "You must be logged in to checkout."
+
+# @ jeg_textdomain
+#~ msgid "Your order"
+#~ msgstr "Your order"
+
+# @ jeg_textdomain
+#~ msgid "Have a coupon?"
+#~ msgstr "Have a coupon?"
+
+# @ jeg_textdomain
+#~ msgid "Click here to enter your code"
+#~ msgstr "Click here to enter your code"
+
+#~ msgid "Returning customer?"
+#~ msgstr "Returning customer?"
+
+# @ jeg_textdomain
+#~ msgid "Click here to login"
+#~ msgstr "Click here to login"
+
+#~ msgid ""
+#~ "If you have shopped with us before, please enter your details in the "
+#~ "boxes below. If you are a new customer please proceed to the Billing "
+#~ "&amp; Shipping section."
+#~ msgstr ""
+#~ "If you have shopped with us before, please enter your details in the "
+#~ "boxes below. If you are a new customer please proceed to the Billing "
+#~ "&amp; Shipping section."
+
+# @ jeg_textdomain
+#~ msgid "Qty"
+#~ msgstr "Qty"
+
+# @ jeg_textdomain
+#~ msgid "Totals"
+#~ msgstr "Totals"
+
+# @ jeg_textdomain
+#~ msgid "Payment"
+#~ msgstr "Payment"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "location. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+#~ msgstr ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "location. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+
+# @ jeg_textdomain
+#~ msgid "Pay for order"
+#~ msgstr "Pay for order"
+
+# @ jeg_textdomain
+#~ msgid "Ship to a different address?"
+#~ msgstr "Ship to a different address?"
+
+# @ jeg_textdomain
+#~ msgid "Additional Information"
+#~ msgstr "Additional Information"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "Unfortunately your order cannot be processed as the originating bank/"
+#~ "merchant has declined your transaction."
+#~ msgstr ""
+#~ "Unfortunately your order cannot be processed as the originating bank/"
+#~ "merchant has declined your transaction."
+
+# @ jeg_textdomain
+#~ msgid "Please attempt your purchase again or go to your account page."
+#~ msgstr "Please attempt your purchase again or go to your account page."
+
+# @ jeg_textdomain
+#~ msgid "Please attempt your purchase again."
+#~ msgstr "Please attempt your purchase again."
+
+# @ jeg_textdomain
+#~ msgid "Pay"
+#~ msgstr "Pay"
+
+# @ jeg_textdomain
+#~ msgid "Thank you. Your order has been received."
+#~ msgstr "Thank you. Your order has been received."
+
+# @ jeg_textdomain
+#~ msgid "Order:"
+#~ msgstr "Order:"
+
+# @ jeg_textdomain
+#~ msgid "Date:"
+#~ msgstr "Date:"
+
+# @ jeg_textdomain
+#~ msgid "Total:"
+#~ msgstr "Total:"
+
+# @ jeg_textdomain
+#~ msgid "Payment method:"
+#~ msgstr "Payment method:"
+
+#~ msgid "You have received an order from %s. Their order is as follows:"
+#~ msgstr "You have received an order from %s. Their order is as follows:"
+
+# @ jeg_textdomain
+#~ msgid "Order: %s"
+#~ msgstr "Order: %s"
+
+#~ msgid "Tel:"
+#~ msgstr "Tel:"
+
+#~ msgid ""
+#~ "Hi there. Your recent order on %s has been completed. Your order details "
+#~ "are shown below for your reference:"
+#~ msgstr ""
+#~ "Hi there. Your recent order on %s has been completed. Your order details "
+#~ "are shown below for your reference:"
+
+#~ msgid ""
+#~ "An order has been created for you on %s. To pay for this order please use "
+#~ "the following link: %s"
+#~ msgstr ""
+#~ "An order has been created for you on %s. To pay for this order please use "
+#~ "the following link: %s"
+
+# @ jeg_textdomain
+#~ msgid "pay"
+#~ msgstr "pay"
+
+#~ msgid ""
+#~ "Thanks for creating an account on %s. Your username is <strong>%s</"
+#~ "strong>."
+#~ msgstr ""
+#~ "Thanks for creating an account on %s. Your username is <strong>%s</"
+#~ "strong>."
+
+#~ msgid "Your password has been automatically generated: <strong>%s</strong>"
+#~ msgstr "Your password has been automatically generated: <strong>%s</strong>"
+
+#~ msgid ""
+#~ "You can access your account area to view your orders and change your "
+#~ "password here: %s."
+#~ msgstr ""
+#~ "You can access your account area to view your orders and change your "
+#~ "password here: %s."
+
+#~ msgid "Hello, a note has just been added to your order:"
+#~ msgstr "Hello, a note has just been added to your order:"
+
+#~ msgid "For your reference, your order details are shown below."
+#~ msgstr "For your reference, your order details are shown below."
+
+#~ msgid ""
+#~ "Your order has been received and is now being processed. Your order "
+#~ "details are shown below for your reference:"
+#~ msgstr ""
+#~ "Your order has been received and is now being processed. Your order "
+#~ "details are shown below for your reference:"
+
+#~ msgid ""
+#~ "Someone requested that the password be reset for the following account:"
+#~ msgstr ""
+#~ "Someone requested that the password be reset for the following account:"
+
+# @ jeg_textdomain
+#~ msgid "Username: %s"
+#~ msgstr "Username: %s"
+
+#~ msgid ""
+#~ "If this was a mistake, just ignore this email and nothing will happen."
+#~ msgstr ""
+#~ "If this was a mistake, just ignore this email and nothing will happen."
+
+#~ msgid "To reset your password, visit the following address:"
+#~ msgstr "To reset your password, visit the following address:"
+
+# @ jeg_textdomain
+#~ msgid "Click here to reset your password"
+#~ msgstr "Click here to reset your password"
+
+# @ jeg_textdomain
+#~ msgid "Billing address"
+#~ msgstr "Billing address"
+
+# @ jeg_textdomain
+#~ msgid "Shipping address"
+#~ msgstr "Shipping address"
+
+# @ jeg_textdomain
+#~ msgid "Product Image"
+#~ msgstr "Product Image"
+
+# @ jeg_textdomain
+#~ msgid "Download %d"
+#~ msgstr "Download %d"
+
+# @ jeg_textdomain
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Order number: %s"
+#~ msgstr "Order number: %s"
+
+# @ jeg_textdomain
+#~ msgid "Order link: %s"
+#~ msgstr "Order link: %s"
+
+# @ jeg_textdomain
+#~ msgid "Order date: %s"
+#~ msgstr "Order date: %s"
+
+#~ msgid "jS F Y"
+#~ msgstr "jS F Y"
+
+# @ jeg_textdomain
+#~ msgid "Your details"
+#~ msgstr "Your details"
+
+#~ msgid "Your password is <strong>%s</strong>."
+#~ msgstr "Your password is <strong>%s</strong>."
+
+# @ jeg_textdomain
+#~ msgid "Quantity: %s"
+#~ msgstr "Quantity: %s"
+
+#~ msgid "Cost: %s"
+#~ msgstr "Cost: %s"
+
+# @ jeg_textdomain
+#~ msgid "Username or email"
+#~ msgstr "Username or email"
+
+# @ jeg_textdomain
+#~ msgctxt "Product quantity input tooltip"
+#~ msgid "Qty"
+#~ msgstr "Qty"
+
+# @ jeg_textdomain
+#~ msgid "No products were found matching your selection."
+#~ msgstr "No products were found matching your selection."
+
+#~ msgid "Showing the single result"
+#~ msgstr "Showing the single result"
+
+#~ msgid "Showing all %d results"
+#~ msgstr "Showing all %d results"
+
+#~ msgctxt "%1$d = first, %2$d = last, %3$d = total"
+#~ msgid "Showing %1$d&ndash;%2$d of %3$d results"
+#~ msgstr "Showing %1$d&ndash;%2$d of %3$d results"
+
+# @ jeg_textdomain
+#~ msgid "Sale!"
+#~ msgstr "Sale!"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "Sorry, it seems that there are no payment methods which support adding a "
+#~ "new payment method. Please contact us if you require assistance or wish "
+#~ "to make alternate arrangements."
+#~ msgstr ""
+#~ "Sorry, it seems that there are no payment methods which support adding a "
+#~ "new payment method. Please contact us if you require assistance or wish "
+#~ "to make alternate arrangements."
+
+# @ jeg_textdomain
+#~ msgid "Add Payment Method"
+#~ msgstr "Add Payment Method"
+
+#~ msgid "First name"
+#~ msgstr "First name"
+
+#~ msgid "Last name"
+#~ msgstr "Last name"
+
+# @ jeg_textdomain
+#~ msgid "Password Change"
+#~ msgstr "Password Change"
+
+#~ msgid "Current Password (leave blank to leave unchanged)"
+#~ msgstr "Current Password (leave blank to leave unchanged)"
+
+#~ msgid "New Password (leave blank to leave unchanged)"
+#~ msgstr "New Password (leave blank to leave unchanged)"
+
+# @ jeg_textdomain
+#~ msgid "Confirm New Password"
+#~ msgstr "Confirm New Password"
+
+#~ msgid "Save changes"
+#~ msgstr "Save changes"
+
+# @ jeg_textdomain
+#~ msgid "Save Address"
+#~ msgstr "Save Address"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "Lost your password? Please enter your username or email address. You will "
+#~ "receive a link to create a new password via email."
+#~ msgstr ""
+#~ "Lost your password? Please enter your username or email address. You will "
+#~ "receive a link to create a new password via email."
+
+# @ jeg_textdomain
+#~ msgid "Enter a new password below."
+#~ msgstr "Enter a new password below."
+
+# @ jeg_textdomain
+#~ msgid "New password"
+#~ msgstr "New password"
+
+# @ jeg_textdomain
+#~ msgid "Re-enter new password"
+#~ msgstr "Re-enter new password"
+
+# @ jeg_textdomain
+#~ msgid "Reset Password"
+#~ msgstr "Reset Password"
+
+# @ jeg_textdomain
+#~ msgid "Save"
+#~ msgstr "Save"
+
+#~ msgid ""
+#~ "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+#~ msgstr ""
+#~ "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "From your account dashboard you can view your recent orders, manage your "
+#~ "shipping and billing addresses and <a href=\"%s\">edit your password and "
+#~ "account details</a>."
+#~ msgstr ""
+#~ "From your account dashboard you can view your recent orders, manage your "
+#~ "shipping and billing addresses and <a href=\"%s\">edit your password and "
+#~ "account details</a>."
+
+# @ jeg_textdomain
+#~ msgid "My Addresses"
+#~ msgstr "My Addresses"
+
+# @ jeg_textdomain
+#~ msgid "My Address"
+#~ msgstr "My Address"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "The following addresses will be used on the checkout page by default."
+#~ msgstr ""
+#~ "The following addresses will be used on the checkout page by default."
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+# @ jeg_textdomain
+#~ msgid "You have not set up this type of address yet."
+#~ msgstr "You have not set up this type of address yet."
+
+# @ jeg_textdomain
+#~ msgid "Available downloads"
+#~ msgstr "Available downloads"
+
+#~ msgid "%s download remaining"
+#~ msgid_plural "%s downloads remaining"
+#~ msgstr[0] "%s download remaining"
+#~ msgstr[1] "%s downloads remaining"
+
+# @ jeg_textdomain
+#~ msgid "Recent Orders"
+#~ msgstr "Recent Orders"
+
+# @ jeg_textdomain
+#~ msgid "Order"
+#~ msgstr "Order"
+
+# @ jeg_textdomain
+#~ msgid "Date"
+#~ msgstr "Date"
+
+# @ jeg_textdomain
+#~ msgid "%s for %s item"
+#~ msgid_plural "%s for %s items"
+#~ msgstr[0] "%s for %s item"
+#~ msgstr[1] "%s for %s items"
+
+# @ jeg_textdomain
+#~ msgid "View"
+#~ msgstr "View"
+
+#~ msgid ""
+#~ "Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+#~ "\"order-date\">%s</mark> and is currently <mark class=\"order-status\">"
+#~ "%s</mark>."
+#~ msgstr ""
+#~ "Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+#~ "\"order-date\">%s</mark> and is currently <mark class=\"order-status\">"
+#~ "%s</mark>."
+
+# @ jeg_textdomain
+#~ msgid "Order Updates"
+#~ msgstr "Order Updates"
+
+# @ jeg_textdomain
+#~ msgid "l jS \\o\\f F Y, h:ia"
+#~ msgstr "l jS \\o\\f F Y, h:ia"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "To track your order please enter your Order ID in the box below and press "
+#~ "return. This was given to you on your receipt and in the confirmation "
+#~ "email you should have received."
+#~ msgstr ""
+#~ "To track your order please enter your Order ID in the box below and press "
+#~ "return. This was given to you on your receipt and in the confirmation "
+#~ "email you should have received."
+
+# @ jeg_textdomain
+#~ msgid "Order ID"
+#~ msgstr "Order ID"
+
+# @ jeg_textdomain
+#~ msgid "Found in your order confirmation email."
+#~ msgstr "Found in your order confirmation email."
+
+# @ jeg_textdomain
+#~ msgid "Billing Email"
+#~ msgstr "Billing Email"
+
+# @ jeg_textdomain
+#~ msgid "Email you used during checkout."
+#~ msgstr "Email you used during checkout."
+
+# @ jeg_textdomain
+#~ msgid "Track"
+#~ msgstr "Track"
+
+# @ jeg_textdomain
+#~ msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+#~ msgstr "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+
+# @ jeg_textdomain
+#~ msgid "ago"
+#~ msgstr "ago"
+
+# @ jeg_textdomain
+#~ msgid "and was completed"
+#~ msgstr "and was completed"
+
+# @ jeg_textdomain
+#~ msgid "Choose an option"
+#~ msgstr "Choose an option"
+
+# @ jeg_textdomain
+#~ msgid "Clear selection"
+#~ msgstr "Clear selection"
+
+#~ msgid "This product is currently out of stock and unavailable."
+#~ msgstr "This product is currently out of stock and unavailable."
+
+#~ msgid "SKU:"
+#~ msgstr "SKU:"
+
+# @ jeg_textdomain
+#~ msgid "Category:"
+#~ msgid_plural "Categories:"
+#~ msgstr[0] "Category:"
+#~ msgstr[1] "Categories:"
+
+#~ msgid "Tag:"
+#~ msgid_plural "Tags:"
+#~ msgstr[0] "Tag:"
+#~ msgstr[1] "Tags:"
+
+#~ msgid "Weight"
+#~ msgstr "Weight"
+
+#~ msgid "Dimensions"
+#~ msgstr "Dimensions"
+
+# @ jeg_textdomain
+#~ msgid "Placeholder"
+#~ msgstr "Placeholder"
+
+# @ jeg_textdomain
+#~ msgid "Rated %s out of 5"
+#~ msgstr "Rated %s out of 5"
+
+# @ jeg_textdomain
+#~ msgid "out of 5"
+#~ msgstr "out of 5"
+
+# @ jeg_textdomain
+#~ msgid "%s customer review"
+#~ msgid_plural "%s customer reviews"
+#~ msgstr[0] "%s customer review"
+#~ msgstr[1] "%s customer reviews"
+
+# @ jeg_textdomain
+#~ msgid "Rated %d out of 5"
+#~ msgstr "Rated %d out of 5"
+
+# @ jeg_textdomain
+#~ msgid "Your comment is awaiting approval"
+#~ msgstr "Your comment is awaiting approval"
+
+# @ jeg_textdomain
+#~ msgid "verified owner"
+#~ msgstr "verified owner"
+
+#~ msgid "Product Description"
+#~ msgstr "Product Description"
+
+#~ msgid "You may also like&hellip;"
+#~ msgstr "You may also like&hellip;"
+
+# @ jeg_textdomain
+#~ msgid "404"
+#~ msgstr "404"
+
+# @ jeg_textdomain
+#~ msgid "Tag archive for : <b>%s</b>"
+#~ msgstr "Tag archive for : <b>%s</b>"
+
+# @ jeg_textdomain
+#~ msgid "Post filled under : <b>%s</b>"
+#~ msgstr "Post filled under : <b>%s</b>"
+
+# @ jeg_textdomain
+#~ msgid "Post written by : <b>%s</b>"
+#~ msgstr "Post written by : <b>%s</b>"
+
+# @ jeg_textdomain
+#~ msgid "%s - Archive"
+#~ msgstr "%s - Archive"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view any comments."
+#~ msgstr ""
+#~ "This post is password protected. Enter the password to view any comments."
+
+# @ jeg_textdomain
+#~ msgid "Required fields are marked %s"
+#~ msgstr "Required fields are marked %s"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+#~ msgstr ""
+#~ "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+#~ "of this account\">Log out?</a>"
+
+# @ jeg_textdomain
+#~ msgid "Your email address will not be published"
+#~ msgstr "Your email address will not be published"
+
+# @ jeg_textdomain
+#~ msgid ""
+#~ "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "tags and attributes: %s"
+#~ msgstr ""
+#~ "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> "
+#~ "tags and attributes: %s"
+
+# @ jeg_textdomain
+#~ msgid "Leave a Reply"
+#~ msgstr "Leave a Reply"
+
+# @ jeg_textdomain
+#~ msgid "Cancel reply"
+#~ msgstr "Cancel reply"
+
+# @ jeg_textdomain
+#~ msgid "Post Comment"
+#~ msgstr "Post Comment"
+
+# @ jeg_textdomain
+#~ msgid "Please login to comment"
+#~ msgstr "Please login to comment"
+
+# @ jeg_textdomain
+#~ msgid "Got something to say? Feel free, we'd love to hear your thoughts."
+#~ msgstr "Got something to say? Feel free, we'd love to hear your thoughts."
+
+# @ jeg_textdomain
+#~ msgid "Leave a Comment"
+#~ msgstr "Leave a Comment"
+
+# @ jeg_textdomain
+#~ msgid "Rated %.2f out of 5"
+#~ msgstr "Rated %.2f out of 5"
+
+# @ jeg_textdomain
+#~ msgid "From"
+#~ msgstr "From"
+
+# @ jeg_textdomain
+#~ msgid "No Comments"
+#~ msgstr "No Comments"
+
+# @ jeg_textdomain
+#~ msgid "Reply"
+#~ msgstr "Reply"
+
+# @ jeg_textdomain
+#~ msgid "Cancel Reply"
+#~ msgstr "Cancel Reply"
+
+# @ jeg_textdomain
+#~ msgid "GET DIRECTION"
+#~ msgstr "GET DIRECTION"
+
+# @ jeg_textdomain
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+# @ jeg_textdomain
+#~ msgid "Like"
+#~ msgstr "Like"
+
+# @ jeg_textdomain
+#~ msgid "Share"
+#~ msgstr "Share"
+
+# @ jeg_textdomain
+#~ msgid "Pin"
+#~ msgstr "Pin"
+
+# @ jeg_textdomain
+#~ msgid "Login or Register"
+#~ msgstr "Login or Register"
+
+# @ jeg_textdomain
+#, fuzzy
+#~ msgid "An Item"
+#~ msgid_plural "%s Items"
+#~ msgstr[0] "An Item"
+#~ msgstr[1] "%s Items"

@@ -1,0 +1,11 @@
+#jmagz_blog_gallery_metabox,
+#jmagz_blog_video_metabox,
+#jmagz_page_metabox_metabox,
+#jmagz_review_metabox,
+#jmagz_page_index_metabox {
+    display: none;
+}
+
+.composer-switch {
+    margin-top: 20px;
+}
