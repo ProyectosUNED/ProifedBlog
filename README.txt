@@ -9,4 +9,5 @@ Sobre su instalación:
 1- Descargue el contenido del proyecto en la carpeta root del servidor.
 2- Cree una base de datos llamada “proifed” e importe los datos del archivo proifed.sql
 3- Cambie los credenciales de la base de datos en el archivo wp-config.php para que el proyecto se pueda conectar con la BD.
+4- Editar en el Escritorio -> Ajustes , los diferentes urls para que encajen con los sitio en cuestión.
 
