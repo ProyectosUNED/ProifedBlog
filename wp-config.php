@@ -23,7 +23,7 @@ define('DB_NAME', 'proifed');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Mysql2015');
+define('DB_PASSWORD', 'myPassword');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
