@@ -794,12 +794,12 @@ if( class_exists( 'STC_Subscribe' ) ) {
             <?php if( $this->show_all_categories === true ) : ?>
             <div class="checkbox">
               <label>
-                <input type="checkbox" id="stc-all-categories" checked=true name="stc_all_categories" value="1">
+                <input type="checkbox" id="stc-all-categories"  name="stc_all_categories" value="1">
                 <?php _e('All categories', STC_TEXTDOMAIN ); ?>
               </label>
             </div>
             <?php endif; ?>
-            <div class="stc-categories-checkboxes" style="display: none;">
+            <div class="stc-categories-checkboxes" >
             <?php if(! empty( $cats ) ) : ?>
     				<?php foreach ($cats as $cat ) : ?>
             <div class="checkbox">
